@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://grupoeasytech.com.br/wp-content/uploads/Artboard-1banner-blog.png"  />
 </div>
 
 ###
@@ -83,8 +83,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/netozin123">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=netozin123&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/idu6av1srlichgpbnvxoba9hx">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=idu6av1srlichgpbnvxoba9hx&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
