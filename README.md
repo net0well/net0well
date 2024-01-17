@@ -82,6 +82,8 @@
   </a>
 </div>
 
+###
 
+![Snake animation](https://github.com/net0well/net0well/blob/output/github-contribution-grid-snake.svg)
 
 ###
