@@ -77,15 +77,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=net0well&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/idu6av1srlichgpbnvxoba9hx">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=idu6av1srlichgpbnvxoba9hx&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/net0well/net0well/output/snake.svg" alt="Snake animation" />
 
 ###
