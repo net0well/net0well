@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://grupoeasytech.com.br/wp-content/uploads/Artboard-1banner-blog.png"  />
-</div>
+
 
 ###
 
