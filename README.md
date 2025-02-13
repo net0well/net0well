@@ -21,15 +21,6 @@
 
 <h1>Hello World!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1> 
 
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvenelouis&label=visitors%20(daily%2Ftotal)%3A&labelColor=%23000000&countColor=%2327b800&labelStyle=upper&dateShow=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis)
-
-<!--
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+@venelouis...;A+Software+Developer+...;and+Web+Designer...;Enhance+your+coding+experience+!🖤&center=true&size=20" alt="Typing SVG" />
-  </a>
-</h1>
--->
 
 <a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"></a>
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="150" /></a> <a href="https://github.com/venelouis?tab=followers" />
