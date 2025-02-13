@@ -65,20 +65,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/idu6av1srlichgpbnvxoba9hx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=idu6av1srlichgpbnvxoba9hx&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-![snake animation](https://github.com/net0well/net0well/blob/output/github-contribution-grid-snake.svg)
-
-###
