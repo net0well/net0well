@@ -2,7 +2,7 @@
   
   # Wellington Neto | Desenvolvedor de Software
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Analista+de+Sistemas;Desenvolvedor+Full+Stack;Desenvolvedor+C%23+e+.NET;Sempre+em+busca+de+novos+desafios;Precisa+de+um+desenvolvedor?+Me+chame!)](https://git.io/typing-svg)
+  [![Bem-vindo ao meu terminal](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Loading+System...;System+Initialized;Access+Granted;Hello+World+Program+Executed;Wellington.exe+is+Running;root%40wellington-dev%3A~%24+_)](https://git.io/typing-svg)
 
   <img src="https://komarev.com/ghpvc/?username=net0well&style=for-the-badge&color=blue" alt="Contador de Visitas" />
   
