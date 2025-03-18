@@ -1,7 +1,5 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Wellington%20Neto&fontSize=70&fontColor=00FFFF&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=82&descColor=FF00FF" width="100%"/>
-  
   [![Bem-vindo ao meu terminal](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Loading+System...;System+Initialized;Access+Granted;Hello+World+Program+Executed;Wellington.exe+is+Running;root%40wellington-dev%3A~%24+_)](https://git.io/typing-svg)
 
   <p>
