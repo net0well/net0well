@@ -2,26 +2,6 @@
   
   [![Bem-vindo ao meu terminal](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Loading+System...;System+Initialized;Access+Granted;Hello+World+Program+Executed;Wellington.exe+is+Running;root%40wellington-dev%3A~%24+_)](https://git.io/typing-svg)
 
-  <p>
-    <a href="https://www.linkedin.com/in/devwneto/" target="_blank">
-      <img height="40" src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:wellingtonalneto@gmail.com">
-      <img height="40" src="https://img.icons8.com/nolan/64/gmail.png" alt="Email"/>
-    </a>
-    <a href="https://github.com/net0well">
-      <img height="40" src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"/>
-    </a>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=net0well&style=for-the-badge&color=blueviolet" alt="Contador de Visitas" />
-  
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="Coding Gif" width="400" />
 </div>
