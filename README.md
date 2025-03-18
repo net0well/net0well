@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="Coding Gif" width="400" />
 </div>
 
-## <img src="https://img.icons8.com/color/48/000000/user-male-circle--v1.png" width="30"/> Sobre Mim
+## Sobre Mim
 
 <table align="center">
   <tr>
