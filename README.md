@@ -42,7 +42,7 @@ namespace DeveloperProfile
         { 
             "Desenvolvimento de Software", 
             "Projetos Open-source", 
-            "Computer", "Games"
+            "Computer", "Games", "RPG"
         };
         
         public void SayHello()
