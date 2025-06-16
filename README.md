@@ -1,1 +1,1 @@
-Hi, my name is Wellington Neto, and I am a Full-Stack Developer working with C#, .NET, Angular, jQuery, PHP, and Laravel.
+Hi, my name is Wellington Neto, and I am a Full-Stack Developer working with C#, .NET, Angular, jQuery, PHP, and Laravel. Relational Database: SQL Server, PostgreSQL, MySQL and NoSQL MongoDB and Redis.
